@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zen-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/zen-react-app/static/js/main.97b5be8c.js",
+    "static/js/787.34a2d163.chunk.js": "/zen-react-app/static/js/787.34a2d163.chunk.js",
+    "static/media/logo.svg": "/zen-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zen-react-app/index.html",
+    "main.073c9b0a.css.map": "/zen-react-app/static/css/main.073c9b0a.css.map",
+    "main.97b5be8c.js.map": "/zen-react-app/static/js/main.97b5be8c.js.map",
+    "787.34a2d163.chunk.js.map": "/zen-react-app/static/js/787.34a2d163.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97b5be8c.js"
+  ]
+}
